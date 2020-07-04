@@ -4,7 +4,7 @@
 本当にそうなのか検証してみた<br>
 
 I've heard that bacteriophage doesn't infect into legionella bacterium,<br>
-then I confirm that story by bioinfomatical tools.
+then I confirmed that story by bioinfomatical tools.
 
 <h3>Material</h3>
 Reference genome from NCBI.<br>
